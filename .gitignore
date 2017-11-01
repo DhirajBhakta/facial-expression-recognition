@@ -1,0 +1,7 @@
+dataset_creation/Emotion_labels/
+dataset_creation/extended-cohn-kanade-images/
+dataset_creation/GENERATED_SAMPLES/
+dataset_creation/IMAGES/
+*/__pycache__/
+*/*/__pycache__/
+
